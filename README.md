@@ -1,9 +1,9 @@
 # CP03 - Caixa Eletrônico
 
 ## Integrantes
-- Leonardo Soares Rodrigues
-- Lucas Seiji Hummel
-- Matheus Pimenta Martini
+- Leonardo Soares Rodrigues, RM: 572986
+- Lucas Seiji Hummel, RM: 569673
+- Matheus Pimenta Martini, RM: 569400
 
 
 ## Documentação: Sistema de Atendimento de Terminal Bancário
